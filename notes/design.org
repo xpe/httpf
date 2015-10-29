@@ -1,0 +1,17 @@
+* Design
+
+** Primary Goals
+
+*** Provide a starting HTTP flowchart based on the HTTP Decision Diagram.
+
+*** Allow for customizable decision points (e.g. `found?`)
+
+*** Allow for customizable handlers (e.g. 404)
+
+** Secondary Goals
+
+Secondary goals serve the primary goals.
+
+*** Clean Graph Representation
+
+#+STARTUP: showall
